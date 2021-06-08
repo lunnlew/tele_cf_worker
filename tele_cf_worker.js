@@ -1,5 +1,5 @@
 // your tele bot token_prefix
-const whitelist = ["/bot********:"];
+const whitelist = ["/bot********:","/file/bot********:"];
 const tg_host = "api.telegram.org";
 
 addEventListener('fetch', event => {
